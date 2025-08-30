@@ -249,7 +249,7 @@
                       'rotateCW',
                       'flipX',
                       'flipY',
-                      'reset'
+                      "reset"
                     ],
                     right: ['autoplay', 'thumbs', 'close']
                   }
